@@ -1,6 +1,6 @@
 - Hi, I’m @Blulow
 - I’m interested in game development
-- I’m currently learning c#
+- I’m currently learning javascript and c#
 - Subscribe to my youtube
 
 <!---
